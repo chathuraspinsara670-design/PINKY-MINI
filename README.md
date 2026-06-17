@@ -1,0 +1,2 @@
+# PINKY-MINI
+New bot
