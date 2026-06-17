@@ -89,7 +89,7 @@ async function connectToWA() {
 
       const up = `BLAZE-MD connected ✅\n\nPREFIX: ${prefix}`;
       await Blaze.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true` },
+        image: { url: `https://github.com/chathuraspinsara670-design/PINKY-MINI/blob/main/Images/s/Gemini_Generated_Image_5rgmrn5rgmrn5rgm.png },
         caption: up
       });
 
